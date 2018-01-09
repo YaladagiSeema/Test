@@ -14,5 +14,6 @@ public class Second {
 		int sub =a-b;
 		System.out.println("sum result is " +sub);
 	}
+	
 
 }
