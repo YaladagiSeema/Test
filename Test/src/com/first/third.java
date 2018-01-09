@@ -11,4 +11,11 @@ public class third {
 	{
 		System.out.println("this page is  under construction");
 	}
+	
+	public void display()
+	{
+		
+		
+		System.out.println("display");
+	}
 }
